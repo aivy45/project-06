@@ -11,7 +11,7 @@
 # Time taken to complete
 - 2 hours
 
-Here is the live link 
+# Here is the live link of this project
 - [Live Link](https://project06-ineuron45.netlify.app/)
 
 
